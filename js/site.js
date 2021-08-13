@@ -1,4 +1,1 @@
-
-let helloWorld = () => {
-    alert("Hello World");
-}
+"use strict"
